@@ -1210,10 +1210,874 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "NewSprite2-1.png",
+        "file": "GoblinRun-1-0.png",
         "kind": "image",
         "metadata": "",
-        "name": "NewSprite2-1.png",
+        "name": "GoblinRun-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-2-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-3-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-4-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-4-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-5-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-5-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-6-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-6-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-7-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-7-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-8-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-8-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-9-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-9-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-10-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-10-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-11-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-11-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-12-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-12-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-13-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-13-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-14-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-14-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-15-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-15-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-16-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-16-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-17-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-17-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-2-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-3-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-4-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-4-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-5-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-5-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-6-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-6-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-7-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-7-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-8-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-8-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-9-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-9-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-10-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-10-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-11-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-11-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-12-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-12-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-13-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-13-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-14-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-14-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-15-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-15-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-16-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-16-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-17-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-17-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinRun-18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinRun-18.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinAttack-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinAttack-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinAttack-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinAttack-2-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinAttack-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinAttack-3-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinAttack-4-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinAttack-4-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinAttack-5-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinAttack-5-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinAttack-6-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinAttack-6-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinAttack-7-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinAttack-7-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinAttack-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinAttack-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinAttack-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinAttack-2-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinAttack-3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinAttack-3-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinAttack-4-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinAttack-4-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinAttack-5-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinAttack-5-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinAttack-6-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinAttack-6-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinAttack-7-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinAttack-7-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinAttack-8-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinAttack-8-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinAttack-9-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinAttack-9-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinUnalive-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinUnalive-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinUnalive-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinUnalive-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinUnalive-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinUnalive-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinUnalive-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinUnalive-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinUnalive-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinUnalive-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinUnalive-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinUnalive-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinUnalive-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinUnalive-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinUnalive-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinUnalive-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinUnalive-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinUnalive-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinUnalive-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinUnalive-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinUnalive-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinUnalive-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinUnalive-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinUnalive-12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinUnalive-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinUnalive-13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GoblinUnalive-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GoblinUnalive-14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-2-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-2-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-3-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-6-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-6-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-4-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-4-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-17.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-18.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-5-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-5-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-20.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-21.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-22.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-23.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-24.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-25.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "GobGob-6-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "GobGob-6-0.png",
         "smoothed": true,
         "userAdded": true
       }
@@ -1259,27 +2123,11 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "NewSprite",
-          "persistentUuid": "0ee37531-017e-40a1-b2f5-4db8d206a7b1",
-          "width": 0,
-          "x": 104,
-          "y": 289,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
           "name": "Slime",
           "persistentUuid": "9fd2b850-c235-480d-8a46-d9d2db4d7bb5",
           "width": 0,
-          "x": 308,
-          "y": 259,
+          "x": 1121,
+          "y": 24,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -1287,32 +2135,16 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 32,
-          "layer": "",
-          "locked": false,
-          "name": "Ground",
-          "persistentUuid": "23f6cc74-7e56-40d3-8638-551fc01ebd46",
-          "width": 800,
-          "x": -1,
-          "y": 568,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Speed",
-          "persistentUuid": "860d668a-b827-4b1d-b9d6-d86eb3ed8a71",
+          "name": "GobGob",
+          "persistentUuid": "f8f5c4e5-5b35-4ef0-b296-d3059997afee",
           "width": 0,
-          "x": 29,
-          "y": 31,
-          "zOrder": 4,
+          "x": 472,
+          "y": 233,
+          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1462,44 +2294,16 @@
           ]
         },
         {
-          "name": "NewSprite",
+          "name": "GobGob",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [
-            {
-              "folded": true,
-              "name": "Speed",
-              "type": "number",
-              "value": 0
-            }
-          ],
+          "variables": [],
           "effects": [],
-          "behaviors": [
-            {
-              "acceleration": 1500,
-              "canGoDownFromJumpthru": true,
-              "canGrabPlatforms": true,
-              "canGrabWithoutMoving": true,
-              "deceleration": 1500,
-              "gravity": 1000,
-              "ignoreDefaultControls": false,
-              "jumpSpeed": 600,
-              "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
-              "maxFallingSpeed": 700,
-              "maxSpeed": 250,
-              "name": "PlatformerObject",
-              "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "useLegacyTrajectory": false,
-              "xGrabTolerance": 10,
-              "yGrabOffset": 0
-            }
-          ],
+          "behaviors": [],
           "animations": [
             {
-              "name": "Goblin Idle",
+              "name": "GoblinIdle",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -1783,16 +2587,16 @@
               ]
             },
             {
-              "name": "Goblin Run",
+              "name": "GoblinRun",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinRun-1.png",
+                      "image": "GoblinRun-1-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1809,7 +2613,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinRun-2.png",
+                      "image": "GoblinRun-2-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1826,7 +2630,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinRun-3.png",
+                      "image": "GoblinRun-3-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1843,7 +2647,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinRun-4.png",
+                      "image": "GoblinRun-4-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1860,7 +2664,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinRun-5.png",
+                      "image": "GoblinRun-5-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1877,7 +2681,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinRun-6.png",
+                      "image": "GoblinRun-6-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1894,7 +2698,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinRun-7.png",
+                      "image": "GoblinRun-7-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1911,7 +2715,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinRun-8.png",
+                      "image": "GoblinRun-8-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1928,7 +2732,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinRun-9.png",
+                      "image": "GoblinRun-9-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1945,7 +2749,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinRun-10.png",
+                      "image": "GoblinRun-10-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1962,7 +2766,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinRun-11.png",
+                      "image": "GoblinRun-11-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1979,7 +2783,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinRun-12.png",
+                      "image": "GoblinRun-12-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1996,7 +2800,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinRun-13.png",
+                      "image": "GoblinRun-13-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2013,7 +2817,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinRun-14.png",
+                      "image": "GoblinRun-14-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2030,7 +2834,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinRun-15.png",
+                      "image": "GoblinRun-15-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2047,7 +2851,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinRun-16.png",
+                      "image": "GoblinRun-16-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2064,7 +2868,24 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinRun-17.png",
+                      "image": "GoblinRun-17-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GoblinRun-18.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2093,7 +2914,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-1.png",
+                      "image": "GoblinAttack-1-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2110,7 +2931,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-2.png",
+                      "image": "GoblinAttack-2-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2127,7 +2948,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-3.png",
+                      "image": "GoblinAttack-3-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2144,7 +2965,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-4.png",
+                      "image": "GoblinAttack-4-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2161,7 +2982,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-5.png",
+                      "image": "GoblinAttack-5-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2178,7 +2999,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-6.png",
+                      "image": "GoblinAttack-6-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2195,7 +3016,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-7.png",
+                      "image": "GoblinAttack-7-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2212,7 +3033,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-8.png",
+                      "image": "GoblinAttack-8-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2229,279 +3050,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-9.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-10.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-11.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-12.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-13.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-14.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-15.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-16.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-17.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-18.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-19.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-20.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-21.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-22.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-23.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-24.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "GoblinAttack-25.png",
+                      "image": "GoblinAttack-9-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2521,37 +3070,7 @@
               ]
             },
             {
-              "name": "Goblin Unalive",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Ground",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "canBeGrabbed": true,
-              "name": "Platform",
-              "platformType": "NormalPlatform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "NewSprite2",
+              "name": "GoblinDodge",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -2560,7 +3079,682 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite2-1.png",
+                      "image": "GoblinUnalive-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GoblinUnalive-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GoblinUnalive-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GoblinUnalive-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GoblinUnalive-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GoblinUnalive-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GoblinUnalive-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GoblinUnalive-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GoblinUnalive-9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GoblinUnalive-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GoblinUnalive-11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GoblinUnalive-12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GoblinUnalive-13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GoblinUnalive-14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "GobGob",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-2-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-1-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-2-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-3-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-6-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-4-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-5-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-20.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-21.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-22.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-23.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-24.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-25.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "GobGob-6-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2580,125 +3774,9 @@
               ]
             }
           ]
-        },
-        {
-          "bold": false,
-          "italic": false,
-          "name": "Speed",
-          "smoothed": true,
-          "tags": "",
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "Text",
-          "font": "",
-          "characterSize": 20,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          }
         }
       ],
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-              },
-              "parameters": [
-                "NewSprite",
-                "PlatformerObject"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "TextObject::String"
-              },
-              "parameters": [
-                "Speed",
-                "=",
-                "ToString(NewSprite.PlatformerObject::CurrentSpeed())"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlatformBehavior::CurrentSpeed"
-              },
-              "parameters": [
-                "NewSprite",
-                "PlatformerObject",
-                "!=",
-                "0"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "NewSprite",
-                "\"Goblin Run\""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlatformBehavior::CurrentSpeed"
-              },
-              "parameters": [
-                "NewSprite",
-                "PlatformerObject",
-                "=",
-                "0"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "NewSprite",
-                "\"Goblin Idle\""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        }
-      ],
+      "events": [],
       "layers": [
         {
           "ambientLightColorB": 32,
@@ -2723,16 +3801,7 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": [
-        {
-          "name": "Platform",
-          "type": "PlatformBehavior::PlatformBehavior"
-        },
-        {
-          "name": "PlatformerObject",
-          "type": "PlatformBehavior::PlatformerObjectBehavior"
-        }
-      ]
+      "behaviorsSharedData": []
     }
   ],
   "externalEvents": [],

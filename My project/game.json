@@ -2129,7 +2129,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.0100000000000005,
+        "zoomFactor": 0.16999999999999993,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -2153,15 +2153,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 155,
           "layer": "",
           "locked": false,
           "name": "GobGob",
           "persistentUuid": "f8f5c4e5-5b35-4ef0-b296-d3059997afee",
-          "width": 0,
+          "width": 84,
           "x": 472,
-          "y": 233,
+          "y": 139,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -2175,8 +2175,8 @@
           "locked": false,
           "name": "NewSprite",
           "persistentUuid": "f441c572-c7e6-47f5-9211-d59087f73449",
-          "width": 799,
-          "x": 0,
+          "width": 4481,
+          "x": -1818,
           "y": 527,
           "zOrder": 6,
           "numberProperties": [],
@@ -2190,16 +2190,56 @@
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "Health",
+              "type": "number",
+              "value": 100
+            },
+            {
+              "folded": true,
+              "name": "Speed",
+              "type": "number",
+              "value": 0.5
+            },
+            {
+              "folded": true,
+              "name": "Damage",
+              "type": "number",
+              "value": 50
+            }
+          ],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "Slime",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
@@ -2303,23 +2343,6 @@
                         "y": 0
                       },
                       "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Slime-7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -2344,11 +2367,24 @@
               "name": "DirectionFacing",
               "type": "number",
               "value": 0
+            },
+            {
+              "folded": true,
+              "name": "ProjectileSpeed",
+              "type": "number",
+              "value": 500
+            },
+            {
+              "folded": true,
+              "name": "Damage",
+              "type": "number",
+              "value": 10
             }
           ],
           "effects": [],
           "behaviors": [
             {
+              "jumpSpeed": 1000,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
@@ -2358,7 +2394,6 @@
               "deceleration": 1500,
               "gravity": 1000,
               "ignoreDefaultControls": false,
-              "jumpSpeed": 600,
               "jumpSustainTime": 0.2,
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
@@ -3909,7 +3944,7 @@
                   "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "SwipeAir-1.png",
                       "points": [],
                       "originPoint": {
@@ -3923,7 +3958,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 25.55650520324707,
+                            "y": 0
+                          },
+                          {
+                            "x": 43.091094970703125,
+                            "y": 0.9307193160057068
+                          },
+                          {
+                            "x": 41.54392623901367,
+                            "y": 63.591094970703125
+                          },
+                          {
+                            "x": 23.751474380493164,
+                            "y": 64
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -4084,19 +4138,6 @@
           "events": []
         },
         {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "check to make sure that the animation isnt goblin attack, so it runs once",
-          "comment2": ""
-        },
-        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4134,6 +4175,19 @@
                 "2"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::CurrentSpeed"
+              },
+              "parameters": [
+                "GobGob",
+                "PlatformerObject",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
             }
           ],
           "actions": [
@@ -4169,7 +4223,7 @@
               },
               "parameters": [
                 "AirSwipe",
-                "50*GobGob.Variable(DirectionFacing)",
+                "GobGob.Variable(ProjectileSpeed)*GobGob.Variable(DirectionFacing)",
                 "0",
                 "1"
               ],
@@ -4216,6 +4270,19 @@
                 "2"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::CurrentSpeed"
+              },
+              "parameters": [
+                "GobGob",
+                "PlatformerObject",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
             }
           ],
           "actions": [
@@ -4251,7 +4318,7 @@
               },
               "parameters": [
                 "AirSwipe",
-                "50*GobGob.Variable(DirectionFacing)",
+                "GobGob.Variable(ProjectileSpeed)*GobGob.Variable(DirectionFacing)",
                 "0",
                 "1"
               ],
@@ -4265,6 +4332,185 @@
               "parameters": [
                 "AirSwipe",
                 "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "AirSwipe",
+                "Slime",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "AirSwipe",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Slime",
+                "Health",
+                "-",
+                "GobGob.Variable(Damage)"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Slime",
+                "Health",
+                "<=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Slime",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Slime",
+                "Health",
+                ">",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "AddForceVers"
+              },
+              "parameters": [
+                "Slime",
+                "GobGob",
+                "Slime.Variable(Speed)",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "GobGob",
+                "Slime",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "GobGob",
+                "HP",
+                "-",
+                "Slime.Variable(Damage)"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "GobGob",
+                "HP",
+                "<=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "GobGob",
+                ""
               ],
               "subInstructions": []
             }
